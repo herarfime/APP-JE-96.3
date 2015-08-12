@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "XHEJE.sirac.app"
+        version   = "1.0.0">
+		
+	
+		
+    <name>XHEJE 96.3 FM</name>
+
+    <description>
+        Aplicacion de streaming de La XHEJE 96.3
+    </description>
+
+    <author href="http://www.radioeyna.net" email="sirac@hotmail.com">
+        Heriberto Arturo Figueroa Medina-sirac@hotmail.com
+    </author>
+    
+
+
+    <preference name="phonegap-version" value="3.7.0" />
+    <preference name="orientation"      value="portrait" />
+	<preference name="AlwaysRetainTaskState"      value="true" />
+	<preference name="AndroidLaunchMode" value="singleTask" />
+	<preference name="exit-on-suspend" value="false"/>
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+	<preference name="permissions" value="none" />
+
+    <icon src="icon.png" />
+</widget>

@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.negritas {
+	font-weight:bold;
+}
+
+.lineas {
+	height:2px;
+	background-color:#000;
+}
+
+.divresultado {
+	margin-left:25%;
+	margin-right:25%;
+	text-align:center;
+}
+
+	
+	
